@@ -1,4 +1,4 @@
-echo "node_modules/" > .gitignore
+
 {
   "name": "unit-integration-tests",
   "version": "1.0.0",
